@@ -1,6 +1,6 @@
 {
     "name": "gioco-plus/checkboxtree",
-    "description": "description...",
+    "description": "laravel-admin form checkbox-tree",
     "type": "library",
     "keywords": ["laravel-admin", "extension"],
     "homepage": "https://github.com/laravel-admin-ext/checkboxtree",
