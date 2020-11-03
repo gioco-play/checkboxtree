@@ -5,7 +5,7 @@ laravel-admin Form樹狀勾選盒
 composer require gioco-plus/checkboxtree
 ```
 
-共用資源 - 語系
+共用資源 - css/js
 ```
 php artisan vendor:publish --provider="GiocoPlus\\CheckboxTree\\CheckboxTreeServiceProvider"
 ```
