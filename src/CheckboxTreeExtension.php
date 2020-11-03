@@ -2,7 +2,7 @@
 
 namespace GiocoPlus\CheckboxTree;
 
-use Encore\Admin\Extension;
+use GiocoPlus\Admin\Extension;
 
 class CheckboxTreeExtension extends Extension
 {

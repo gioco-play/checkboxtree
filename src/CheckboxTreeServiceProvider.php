@@ -3,8 +3,8 @@
 namespace GiocoPlus\CheckboxTree;
 
 use Illuminate\Support\ServiceProvider;
-use Encore\Admin\Admin;
-use Encore\Admin\Form;
+use GiocoPlus\Admin\Admin;
+use GiocoPlus\Admin\Form;
 
 class CheckboxTreeServiceProvider extends ServiceProvider
 {

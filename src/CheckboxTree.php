@@ -2,7 +2,7 @@
 
 namespace GiocoPlus\CheckboxTree;
 
-use Encore\Admin\Form\Field\MultipleSelect;
+use GiocoPlus\Admin\Form\Field\MultipleSelect;
 
 class CheckboxTree extends MultipleSelect
 {

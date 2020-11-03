@@ -2,7 +2,7 @@
 
 namespace GiocoPlus\CheckboxTree\Http\Controllers;
 
-use Encore\Admin\Layout\Content;
+use GiocoPlus\Admin\Layout\Content;
 use Illuminate\Routing\Controller;
 
 class CheckboxTreeController extends Controller
