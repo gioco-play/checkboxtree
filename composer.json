@@ -1,0 +1,33 @@
+{
+    "name": "gioco-plus/checkboxtree",
+    "description": "description...",
+    "type": "library",
+    "keywords": ["laravel-admin", "extension"],
+    "homepage": "https://github.com/laravel-admin-ext/checkboxtree",
+    "license": "MIT",
+    "version": "1.0.0",
+    "authors": [
+        {
+            "name": "XuanYang",
+            "email": "yang5664@gmail.com"
+        }
+    ],
+    "require": {
+        "php": ">=7.0.0"
+    },
+    "require-dev": {
+        "phpunit/phpunit": "~6.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "GiocoPlus\\CheckboxTree\\": "src/"
+        }
+    },
+    "extra": {
+        "laravel": {
+            "providers": [
+                "GiocoPlus\\CheckboxTree\\CheckboxTreeServiceProvider"
+            ]
+        }
+    }
+}
